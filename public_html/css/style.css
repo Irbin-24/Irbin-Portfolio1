@@ -1,0 +1,31 @@
+body{
+background-color:red; 
+}
+
+nav a {
+ color:greenyellow;   
+}
+
+#current-link{
+ text-decoration: none; 
+}
+
+ .upercase {
+    text-transform:  uppercase;
+    font-size: 38px;
+}
+
+img{
+  width:350px;
+  height:auto  
+}
+
+h1{
+    border-style:groove;
+    border-width:5px;
+    border-color:whitesmoke;
+    padding-top:15px; 
+    padding-bottom:15px;
+    padding-left:20px;
+  
+}
